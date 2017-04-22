@@ -10,7 +10,14 @@ Get IP address information
 
 ## Installation
 
-Download a specific binary to your operational system.
+Download a specific binary to your operational system or clone and run go install (Golang required):
+
+
+```shell
+$ git clone https://github.com/seregatte/infoip
+$ cd infoip
+$ go install
+```
 
 ### Usage
 
