@@ -23,7 +23,7 @@ $ go install
 
 
 ```shell
-$ ipinfo
+$ infoip
 Usage of infoip:
   -mode string
     	Available mode external and full (default "full") 
