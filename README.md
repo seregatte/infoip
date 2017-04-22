@@ -19,7 +19,7 @@ $ cd infoip
 $ go install
 ```
 
-### Usage
+## Usage
 
 
 ```shell
