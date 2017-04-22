@@ -33,6 +33,14 @@ License
 
 MIT
 
+TODO
+----
+
+- Get OSX IP interfaces
+- Get Windows IP interfaces
+- Get Linux IP interfaces
+- Create a Release page
+
 Author Information
 ------------------
 
